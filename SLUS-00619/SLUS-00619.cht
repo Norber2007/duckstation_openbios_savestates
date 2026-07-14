@@ -1,0 +1,3607 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Master Code]
+D000E218 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Code Protection Breaker]
+300005F4 0002
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Quick Lvl Up]
+800D937A 5FFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Quick Lvl Up]
+800DAD62 5FFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Lvl Modifier]
+800D9374 007F
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Lvl Modifier]
+800DAD5C 007F
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Player 1 Gold]
+80070150 0000
+800D9388 FFFF
+800D938A 02FF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Player 2 Gold]
+80070150 0000
+800DAD70 FFFF
+800DAD72 02FF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Armor % (7FFF - Max Value)]
+800D95B8 7FFF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Base Name]
+800D95BE 0000
+800D95C0 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Mana (7FFF - Max)]
+800D95C8 7FFF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Life (7FFF - Max)]
+800D95CA 7FFF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Additional Stats Display (Unique)]
+300D95CC 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Chance to Hit (7FFF - Max)]
+800D95CE 7FFF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Damage % (7FFF - Max)]
+800D95D0 7FFF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Add X Points of Damage (7F - Max)]
+300D95D2 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Damage (7F - Max)]
+300D95D3 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Damage (7F - Max)]
+300D95D4 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Durability (7FFF - Max)]
+800D95D6 7FFF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Durability (FF - Indestructible)]
+800D95D8 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Damage From Enemies (80 - -128, 7f - +128)]
+300D95DA 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Light Radius %]
+300D95DB 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Fire Damage (7F - Max)]
+300D95DC 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Fire Damage (7F - Max)]
+300D95DD 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Lightning Damage (7F - Max)]
+300D95DE 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Lightning Damage (7F - Max)]
+300D95DF 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Charges (for Staves)]
+300D95E1 00FF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Armor (7F - Max)]
+300D95E2 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Charges (for Staves)]
+300D95E3 00FF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Picture]
+300D95E4 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Utility (for Potions/Scrolls & etc)]
+300D95E5 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Strength (7F - Max)]
+300D95EE 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Magic (7F - Max)]
+300D95EF 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Dexterity (7F - Max)]
+300D95F0 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Vitality (7F - Max)]
+300D95F1 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Fire Resist (7F - Max)]
+300D95F2 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Lightning Resist (7F - Max)]
+300D95F3 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Magic Resist (7F - Max)]
+300D95F4 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Spells Are Increased/Decreased Level (80 - -128, 7F - +128)]
+300D95F5 007F
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Name (Prefix)]
+300D95F7 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Name (Suffix)]
+300D95F8 0000
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Strength) (FF - Max)]
+300D95F9 00FF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Dexterity) (FF - Max)]
+300D95FA 00FF
+
+#group=Equipped Weapon (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Magic) (FF - Max)]
+300D95FC 00FF
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Life Stealing (0-12.5%)]
+300D95B4 0002
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Fires Random Speed Arrows (For Bows)]
+300D95B4 0004
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Constantly Lose Hit Points]
+300D95B4 0040
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Knocks Target Back]
+300D95B5 0008
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Mana ]
+300D95B5 0020
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Mana ]
+300D95B5 0040
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Life]
+300D95B5 0080
+300D95B6 0000
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Life]
+300D95B5 0000
+300D95B6 0001
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Hit Recovery]
+300D95B6 0020
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Hit Recovery]
+300D95B6 0040
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Hit Recovery]
+300D95B6 0080
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Quick Attack Speed]
+300D95B6 0002
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (1)]
+300D95B6 0004
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (2)]
+300D95B6 0006
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Attack Speed ]
+300D95B6 0008
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Attack Speed]
+300D95B6 0010
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Shield Fast Block]
+300D95B7 0001
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Attacker Takes Damage]
+300D95B7 0004
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[User Loses All Mana]
+300D95B7 0008
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Absorbs Half of Trap Damage]
+300D95B7 0010
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[200% Damage vs. Demons]
+300D95B7 0040
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[All Resistance equals 0]
+300D95B7 0080
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Piercing)]
+800D95BC 0801
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Puncturing)]
+800D95BC 080E
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Bashing)]
+800D95BC 081E
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Unarmed]
+300D95C4 0000
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Sword]
+300D95C4 0001
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Axe]
+300D95C4 0002
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Bow]
+300D95C4 0003
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Mace]
+300D95C4 0004
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D95C4 0005
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Base Skin/Light Armor]
+300D95C4 0006
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Helm]
+300D95C4 0007
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Medium Armor]
+300D95C4 0008
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Heavy Armor]
+300D95C4 0009
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Staff]
+300D95C4 000A
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[No Armor/Delete Item]
+300D95C4 00FF
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[No Spell (For Staves)]
+300D95D5 0000
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Firebolt (For Staves)]
+300D95D5 0001
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Healing (For Staves)]
+300D95D5 0002
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Lightning]
+300D95D5 0003
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flash]
+300D95D5 0004
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Identifity]
+300D95D5 0005
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Wall]
+300D95D5 0006
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Town Portal]
+300D95D5 0007
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Stone Curse]
+300D95D5 0008
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Infravision]
+300D95D5 0009
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Phasing]
+300D95D5 000A
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Mana Shield]
+300D95D5 000B
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Ball]
+300D95D5 000C
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Guardian]
+300D95D5 000D
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Chain Lightning]
+300D95D5 000E
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flame Wave]
+300D95D5 000F
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Nova]
+300D95D5 0012
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Inferno]
+300D95D5 0014
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Golem]
+300D95D5 0015
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Teleport]
+300D95D5 0017
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Apocalypse]
+300D95D5 0018
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Item Repair]
+300D95D5 001A
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Recharge]
+300D95D5 001B
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Trap Disarm]
+300D95D5 001C
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Elemental]
+300D95D5 001D
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Charged Bolt]
+300D95D5 001E
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Holy Bolt]
+300D95D5 001F
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Ressurect]
+300D95D5 0020
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Telekinesis]
+300D95D5 0021
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Heal Other]
+300D95D5 0022
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Blood Star]
+300D95D5 0023
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Bone Spirit]
+300D95D5 0024
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Normal]
+300D95E9 0000
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Magic]
+300D95E9 0001
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Unique]
+300D95E9 0002
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Cannot be Equipped]
+300D95EC 0000
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[One Handed Slot]
+300D95EC 0001
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Two Handed Slot]
+300D95EC 0002
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Armor Slot]
+300D95EC 0003
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Helm Slot]
+300D95EC 0004
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Ring Slot]
+300D95EC 0005
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Amulet Slot]
+300D95EC 0006
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Weapon]
+300D95ED 0001
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D95ED 0002
+
+#group=Equipped Weapon (Left Slot, Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Accessory]
+300D95ED 0003
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Armor % (7FFF - Max Value)]
+800D9690 7FFF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Base Name]
+800D9696 0000
+800D9698 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Mana (7FFF - Max Value)]
+800D96A0 7FFF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Life (7FFF - Max Value)]
+800D96A2 7FFF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Additional Stats Display (Unique)]
+300D96A4 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Chance to Hit (7FFF - Max)]
+800D96A6 7FFF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Damage % (7FFF - Max)]
+800D96A8 7FFF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Add X Points of Damage (7F - Max)]
+300D96AA 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Min Damage (7F - Max)]
+300D96AB 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Max Damage (7F - Max)]
+300D96AC 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Min Durability (7FFF - Max)]
+800D96AE 7FFF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Max Durability (FF - Indestructible)]
+800D96B0 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Damage From Enemies (80 - -128, 7f - +128)]
+300D96B2 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Light Radius %]
+300D96B3 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Min Fire Damage (7F - Max)]
+300D96B4 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Max Fire Damage (7F - Max)]
+300D96B5 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Min Lightning Damage (7F - Max)]
+300D96B6 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Max Lightning Damage (7F - Max)]
+300D96B7 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Min Charges (for Staves)]
+300D96B9 00FF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Armor (7F - Max)]
+300D96BA 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Max Charges (for Staves)]
+300D96BB 00FF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Picture]
+300D96BC 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Utility (for Potions/Scrolls & etc)]
+300D96BD 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Strength (7F - Max)]
+300D96C6 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Magic (7F - Max)]
+300D96C7 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Dexterity (7F - Max)]
+300D96C8 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Vitality (7F - Max)]
+300D96C9 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Fire Resist (7F - Max)]
+300D96CA 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Lightning Resist (7F - Max)]
+300D96CB 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Magic Resist (7F - Max)]
+300D96CC 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Spells Are Increased/Decreased Level (80 - -128, 7F - +128)]
+300D96CD 007F
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Name (Prefix)]
+300D96CF 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Name (Suffix)]
+300D96D0 0000
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Strength) (FF - Max)]
+300D96D1 00FF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Dexterity) (FF - Max)]
+300D96D2 00FF
+
+#group=Equipped Armor
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Magic) (FF - Max)]
+300D96D3 00FF
+
+#group=Equipped Armor (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Life Stealing (0-12.5%)]
+300D968C 0002
+
+#group=Equipped Armor (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Fires Random Speed Arrows (For Bows)]
+300D968C 0004
+
+#group=Equipped Armor (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Constantly Lose Hit Points]
+300D968C 0040
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Knocks Target Back]
+300D968D 0008
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Mana ]
+300D968D 0020
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Mana ]
+300D968D 0040
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Life]
+300D968D 0080
+300D968E 0000
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Life]
+300D968D 0000
+300D968E 0001
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Hit Recovery]
+300D968E 0020
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Hit Recovery]
+300D968E 0040
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Hit Recovery]
+300D968E 0080
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Quick Attack Speed]
+300D968E 0002
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (1)]
+300D968E 0004
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (2)]
+300D968E 0006
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Attack Speed ]
+300D968E 0008
+
+#group=Equipped Armor (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Attack Speed]
+300D968E 0010
+
+#group=Equipped Armor (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Shield Fast Block]
+300D968F 0001
+
+#group=Equipped Armor (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Attacker Takes Damage]
+300D968F 0004
+
+#group=Equipped Armor (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[User Loses All Mana]
+300D968F 0008
+
+#group=Equipped Armor (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Absorbs Half of Trap Damage]
+300D968F 0010
+
+#group=Equipped Armor (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[200% Damage vs. Demons]
+300D968F 0040
+
+#group=Equipped Armor (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[All Resistance equals 0]
+300D968F 0080
+
+#group=Equipped Armor (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Piercing)]
+800D9694 0801
+
+#group=Equipped Armor (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Puncturing)]
+800D9694 080E
+
+#group=Equipped Armor (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Bashing)]
+800D9694 081E
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Unarmed]
+300D969C 0000
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Sword]
+300D969C 0001
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Axe]
+300D969C 0002
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Bow]
+300D969C 0003
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Mace]
+300D969C 0004
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D969C 0005
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Base/Light Armor]
+300D969C 0006
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Helm]
+300D969C 0007
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Medium Armor]
+300D969C 0008
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Heavy Armor]
+300D969C 0009
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Staff]
+300D969C 000A
+
+#group=Equipped Armor (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[No Armor/Delete Item]
+300D969C 00FF
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[No Spell (For Staves)]
+300D96AD 0000
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Firebolt (For Staves)]
+300D96AD 0001
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Healing (For Staves)]
+300D96AD 0002
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Lightning]
+300D96AD 0003
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flash]
+300D96AD 0004
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Identifity]
+300D96AD 0005
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Wall]
+300D96AD 0006
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Town Portal]
+300D96AD 0007
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Stone Curse]
+300D96AD 0008
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Infravision]
+300D96AD 0009
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Phasing]
+300D96AD 000A
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Mana Shield]
+300D96AD 000B
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Ball]
+300D96AD 000C
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Guardian]
+300D96AD 000D
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Chain Lightning]
+300D96AD 000E
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flame Wave]
+300D96AD 000F
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Nova]
+300D96AD 0012
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Inferno]
+300D96AD 0014
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Golem]
+300D96AD 0015
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Teleport]
+300D96AD 0017
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Apocalypse]
+300D96AD 0018
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Item Repair]
+300D96AD 001A
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Recharge]
+300D96AD 001B
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Trap Disarm]
+300D96AD 001C
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Elemental]
+300D96AD 001D
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Charged Bolt]
+300D96AD 001E
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Holy Bolt]
+300D96AD 001F
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Ressurect]
+300D96AD 0020
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Telekinesis]
+300D96AD 0021
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Heal Other]
+300D96AD 0022
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Blood Star]
+300D96AD 0023
+
+#group=Equipped Armor (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Bone Spirit]
+300D96AD 0024
+
+#group=Equipped Armor (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Normal]
+300D96C1 0000
+
+#group=Equipped Armor (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Magic]
+300D96C1 0001
+
+#group=Equipped Armor (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Unique]
+300D96C1 0002
+
+#group=Equipped Armor (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Cannot be Equipped]
+300D96C4 0000
+
+#group=Equipped Armor (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[One Handed Slot]
+300D96C4 0001
+
+#group=Equipped Armor (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Two Handed Slot]
+300D96C4 0002
+
+#group=Equipped Armor (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Armor Slot]
+300D96C4 0003
+
+#group=Equipped Armor (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Helm Slot]
+300D96C4 0004
+
+#group=Equipped Armor (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Ring Slot]
+300D96C4 0005
+
+#group=Equipped Armor (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Amulet Slot]
+300D96C4 0006
+
+#group=Equipped Armor (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Weapon]
+300D96C5 0001
+
+#group=Equipped Armor (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D96C5 0002
+
+#group=Equipped Armor (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Accessory]
+300D96C5 0003
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Armor % (7FFF - Max Value)]
+800D9408 7FFF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Base Name]
+800D940E 0000
+800D9410 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Mana (7FFF - Max Value)]
+800D9418 7FFF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Life (7FFF - Max Value)]
+800D941A 7FFF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Additional Stats Display (Unique)]
+300D941C 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Chance to Hit (7FFF - Max)]
+800D941E 7FFF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Damage % (7FFF - Max)]
+800D9420 7FFF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Add X Points of Damage (7F - Max)]
+300D9422 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Min Damage (7F - Max)]
+300D9423 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Max Damage (7F - Max)]
+300D9424 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Min Durability (7FFF - Max)]
+800D9426 7FFF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Max Durability (FF - Indestructible)]
+800D9428 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Damage From Enemies (80 - -128, 7f - +128)]
+300D942A 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Light Radius %]
+300D942B 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Min Fire Damage (7F - Max)]
+300D942C 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Max Fire Damage (7F - Max)]
+300D942D 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Min Lightning Damage (7F - Max)]
+300D942E 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Max Lightning Damage (7F - Max)]
+300D942F 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Min Charges (for Staves)]
+300D9431 00FF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Armor (7F - Max)]
+300D9432 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Max Charges (for Staves)]
+300D9433 00FF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Picture]
+300D9434 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Utility (for Potions/Scrolls & etc)]
+300D9435 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Strength (7F - Max)]
+300D943E 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Magic (7F - Max)]
+300D943F 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Dexterity (7F - Max)]
+300D9440 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Vitality (7F - Max)]
+300D9441 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Fire Resist (7F - Max)]
+300D9442 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Lightning Resist (7F - Max)]
+300D9443 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Magic Resist (7F - Max)]
+300D9444 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Spells Are Increased/Decreased Level (80 - -128, 7F - +128)]
+300D9445 007F
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Name (Prefix)]
+300D9447 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Name (Suffix)]
+300D9448 0000
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Strength) (FF - Max)]
+300D9449 00FF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Dexterity) (FF - Max)]
+300D944A 00FF
+
+#group=Equipped Helm
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Magic) (FF - Max)]
+300D944C 00FF
+
+#group=Equipped Helm (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Life Stealing (0-12.5%)]
+300D9404 0002
+
+#group=Equipped Helm (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Fires Random Speed Arrows (For Bows)]
+300D9404 0004
+
+#group=Equipped Helm (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Constantly Lose Hit Points]
+300D9404 0040
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Knocks Target Back]
+300D9405 0008
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Mana ]
+300D9405 0020
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Mana ]
+300D9405 0040
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Life]
+300D9405 0080
+300D9406 0000
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Life]
+300D9405 0000
+300D9406 0001
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Hit Recovery]
+300D9406 0020
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Hit Recovery]
+300D9406 0040
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Hit Recovery]
+300D9406 0080
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Quick Attack Speed]
+300D9406 0002
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (1)]
+300D9406 0004
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (2)]
+300D9406 0006
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Attack Speed ]
+300D9406 0008
+
+#group=Equipped Helm (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Attack Speed]
+300D9406 0010
+
+#group=Equipped Helm (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Shield Fast Block]
+300D9407 0001
+
+#group=Equipped Helm (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Attacker Takes Damage]
+300D9407 0004
+
+#group=Equipped Helm (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[User Loses All Mana]
+300D9407 0008
+
+#group=Equipped Helm (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Absorbs Half of Trap Damage]
+300D9407 0010
+
+#group=Equipped Helm (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[200% Damage vs. Demons]
+300D9407 0040
+
+#group=Equipped Helm (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[All Resistance equals 0]
+300D9407 0080
+
+#group=Equipped Helm (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Piercing)]
+800D940C 0801
+
+#group=Equipped Helm (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Puncturing)]
+800D940C 080E
+
+#group=Equipped Helm (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Bashing)]
+800D940C 081E
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Unarmed]
+300D9414 0000
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Sword]
+300D9414 0001
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Axe]
+300D9414 0002
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Bow]
+300D9414 0003
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Mace]
+300D9414 0004
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D9414 0005
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Base/Light Armor]
+300D9414 0006
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Helm]
+300D9414 0007
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Medium Armor]
+300D9414 0008
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Heavy Armor]
+300D9414 0009
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Staff]
+300D9414 000A
+
+#group=Equipped Helm (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[No Armor/Delete Item]
+300D9414 00FF
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[No Spell (For Staves)]
+300D9425 0000
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Firebolt (For Staves)]
+300D9425 0001
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Healing (For Staves)]
+300D9425 0002
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Lightning]
+300D9425 0003
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flash]
+300D9425 0004
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Identifity]
+300D9425 0005
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Wall]
+300D9425 0006
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Town Portal]
+300D9425 0007
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Stone Curse]
+300D9425 0008
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Infravision]
+300D9425 0009
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Phasing]
+300D9425 000A
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Mana Shield]
+300D9425 000B
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Ball]
+300D9425 000C
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Guardian]
+300D9425 000D
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Chain Lightning]
+300D9425 000E
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flame Wave]
+300D9425 000F
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Nova]
+300D9425 0012
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Inferno]
+300D9425 0014
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Golem]
+300D9425 0015
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Teleport]
+300D9425 0017
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Apocalypse]
+300D9425 0018
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Item Repair]
+300D9425 001A
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Recharge]
+300D9425 001B
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Trap Disarm]
+300D9425 001C
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Elemental]
+300D9425 001D
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Charged Bolt]
+300D9425 001E
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Holy Bolt]
+300D9425 001F
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Ressurect]
+300D9425 0020
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Telekinesis]
+300D9425 0021
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Heal Other]
+300D9425 0022
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Blood Star]
+300D9425 0023
+
+#group=Equipped Helm (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Bone Spirit]
+300D9425 0024
+
+#group=Equipped Helm (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Normal]
+300D9439 0000
+
+#group=Equipped Helm (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Magic]
+300D9439 0001
+
+#group=Equipped Helm (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Unique]
+300D9439 0002
+
+#group=Equipped Helm (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Cannot be Equipped]
+300D943C 0000
+
+#group=Equipped Helm (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[One Handed Slot]
+300D943C 0001
+
+#group=Equipped Helm (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Two Handed Slot]
+300D943C 0002
+
+#group=Equipped Helm (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Armor Slot]
+300D943C 0003
+
+#group=Equipped Helm (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Helm Slot]
+300D943C 0004
+
+#group=Equipped Helm (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Ring Slot]
+300D943C 0005
+
+#group=Equipped Helm (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Amulet Slot]
+300D943C 0006
+
+#group=Equipped Helm (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Weapon]
+300D943D 0001
+
+#group=Equipped Helm (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D943D 0002
+
+#group=Equipped Helm (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Accessory]
+300D943D 0003
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Armor % (7FFF - Max Value)]
+800D954C 7FFF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Base Name]
+800D9552 0000
+800D9554 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Mana (7FFF - Max Value)]
+800D955C 7FFF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Life (7FFF - Max Value)]
+800D955E 7FFF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Additional Stats Display (Unique)]
+300D9560 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Chance to Hit (7FFF - Max)]
+800D9562 7FFF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Damage % (7FFF - Max)]
+800D9564 7FFF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Add X Points of Damage (7F - Max)]
+300D9566 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Min Damage (7F - Max)]
+300D9567 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Max Damage (7F - Max)]
+300D9568 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Min Durability (7FFF - Max)]
+800D956A 7FFF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Max Durability (FF - Indestructible)]
+800D956C 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Damage From Enemies (80 - -128, 7f - +128)]
+300D956E 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Light Radius %]
+300D956F 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Min Fire Damage (7F - Max)]
+300D9570 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Max Fire Damage (7F - Max)]
+300D9571 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Min Lightning Damage (7F - Max)]
+300D9572 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Max Lightning Damage (7F - Max)]
+300D9573 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Min Charges (for Staves)]
+300D9575 00FF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Armor (7F - Max)]
+300D9576 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Max Charges (for Staves)]
+300D9577 00FF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Picture]
+300D9578 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Utility (for Potions/Scrolls & etc)]
+300D9579 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Strength (7F - Max)]
+300D9582 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Magic (7F - Max)]
+300D9583 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Dexterity (7F - Max)]
+300D9584 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Vitality (7F - Max)]
+300D9585 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Fire Resist (7F - Max)]
+300D9586 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Lightning Resist (7F - Max)]
+300D9587 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Magic Resist (7F - Max)]
+300D9588 007F
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Spells Are Increased/Decreased Level (80 - -128, 7F - +128)]
+300D9589 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Name (Prefix)]
+300D958B 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Name (Suffix)]
+300D958C 0000
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Strength) (FF - Max)]
+300D958D 00FF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Dexterity) (FF - Max)]
+300D958E 00FF
+
+#group=Equipped Amulet
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Magic) (FF - Max)]
+300D958F 00FF
+
+#group=Equipped Amulet (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Life Stealing (0-12.5%)]
+300D9549 0002
+
+#group=Equipped Amulet (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Fires Random Speed Arrows (For Bows)]
+300D9549 0004
+
+#group=Equipped Amulet (Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Constantly Lose Hit Points]
+300D9549 0040
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Knocks Target Back]
+300D9549 0008
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Mana ]
+300D9549 0020
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Mana ]
+300D9549 0040
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Life]
+300D9549 0080
+300D954A 0000
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Life]
+300D9549 0000
+300D954A 0001
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Hit Recovery]
+300D954A 0020
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Hit Recovery]
+300D954A 0040
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Hit Recovery]
+300D954A 0080
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Quick Attack Speed]
+300D954A 0002
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (1)]
+300D954A 0004
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (2)]
+300D954A 0006
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Attack Speed ]
+300D954A 0008
+
+#group=Equipped Amulet (Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Attack Speed]
+300D954A 0010
+
+#group=Equipped Amulet (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Shield Fast Block]
+300D954B 0001
+
+#group=Equipped Amulet (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Attacker Takes Damage]
+300D954B 0004
+
+#group=Equipped Amulet (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[User Loses All Mana]
+300D954B 0008
+
+#group=Equipped Amulet (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Absorbs Half of Trap Damage]
+300D954B 0010
+
+#group=Equipped Amulet (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[200% Damage vs. Demons]
+300D954B 0040
+
+#group=Equipped Amulet (Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[All Resistance equals 0]
+300D954B 0080
+
+#group=Equipped Amulet (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Piercing)]
+800D9550 0801
+
+#group=Equipped Amulet (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Puncturing)]
+800D9550 080E
+
+#group=Equipped Amulet (Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Bashing)]
+800D9550 081E
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Unarmed]
+800D9558 0000
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Sword]
+800D9558 0001
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Axe]
+800D9558 0002
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Bow]
+800D9558 0003
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Mace]
+800D9558 0004
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+800D9558 0005
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Base/Light Armor]
+800D9558 0006
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Helm]
+300D9414 0007
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Medium Armor]
+300D9558 0008
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Heavy Armor]
+300D9558 0009
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Staff]
+300D9558 000A
+
+#group=Equipped Amulet (Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[No Armor/Delete Item]
+300D9558 00FF
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[No Spell (For Staves)]
+300D9569 0000
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Firebolt (For Staves)]
+300D9569 0001
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Healing (For Staves)]
+300D9569 0002
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Lightning]
+300D9569 0003
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flash]
+300D9569 0004
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Identifity]
+300D9569 0005
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Wall]
+300D9569 0006
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Town Portal]
+300D9569 0007
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Stone Curse]
+300D9569 0008
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Infravision]
+300D9569 0009
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Phasing]
+300D9569 000A
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Mana Shield]
+300D9569 000B
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Ball]
+300D9569 000C
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Guardian]
+300D9569 000D
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Chain Lightning]
+300D9569 000E
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flame Wave]
+300D9569 000F
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Nova]
+300D9569 0012
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Inferno]
+300D9569 0014
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Golem]
+300D9569 0015
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Teleport]
+300D9569 0017
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Apocalypse]
+300D9569 0018
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Item Repair]
+300D9569 001A
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Recharge]
+300D9569 001B
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Trap Disarm]
+300D9569 001C
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Elemental]
+300D9569 001D
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Charged Bolt]
+300D9569 001E
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Holy Bolt]
+300D9569 001F
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Ressurect]
+300D9569 0020
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Telekinesis]
+300D9569 0021
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Heal Other]
+300D9569 0022
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Blood Star]
+300D9569 0023
+
+#group=Equipped Amulet (Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Bone Spirit]
+300D9569 0024
+
+#group=Equipped Amulet (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Normal]
+300D957D 0000
+
+#group=Equipped Amulet (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Magic]
+300D957D 0001
+
+#group=Equipped Amulet (Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Unique]
+300D957D 0002
+
+#group=Equipped Amulet (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Cannot be Equipped]
+300D9580 0000
+
+#group=Equipped Amulet (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[One Handed Slot]
+300D9580 0001
+
+#group=Equipped Amulet (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Two Handed Slot]
+300D9580 0002
+
+#group=Equipped Amulet (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Armor Slot]
+300D9580 0003
+
+#group=Equipped Amulet (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Helm Slot]
+300D9580 0004
+
+#group=Equipped Amulet (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Ring Slot]
+300D9580 0005
+
+#group=Equipped Amulet (Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Amulet Slot]
+300D9580 0006
+
+#group=Equipped Amulet (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Weapon]
+300D9581 0001
+
+#group=Equipped Amulet (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D9581 0002
+
+#group=Equipped Amulet (Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Accessory]
+300D9581 0003
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Armor % (7FFF - Max Value)]
+800D9474 7FFF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Base Name]
+800D947A 0000
+800D947C 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Mana (7FFF - Max Value)]
+800D9484 7FFF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Life (7FFF - Max Value)]
+800D9486 7FFF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Additional Stats Display (Unique)]
+300D9488 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Chance to Hit (7FFF - Max)]
+800D948A 7FFF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Damage % (7FFF - Max)]
+800D948C 7FFF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Add X Points of Damage (7F - Max)]
+300D948E 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Damage (7F - Max)]
+300D948F 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Damage (7F - Max)]
+300D9490 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Durability (7FFF - Max)]
+800D9492 7FFF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Durability (FF - Indestructible)]
+800D9494 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Damage From Enemies (80 - -128, 7f - +128)]
+300D9496 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Light Radius %]
+300D9497 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Fire Damage (7F - Max)]
+300D9498 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Fire Damage (7F - Max)]
+300D9499 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Lightning Damage (7F - Max)]
+300D949A 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Lightning Damage (7F - Max)]
+300D949B 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Min Charges (for Staves)]
+300D949D 00FF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Armor (7F - Max)]
+300D949E 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Max Charges (for Staves)]
+300D949F 00FF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Picture]
+300D94A0 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Utility (for Potions/Scrolls & etc)]
+300D94A1 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Strength (7F - Max)]
+300D94AA 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Magic (7F - Max)]
+300D94AB 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Dexterity (7F - Max)]
+300D94AC 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Vitality (7F - Max)]
+300D94AD 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Fire Resist (7F - Max)]
+300D94AE 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Lightning Resist (7F - Max)]
+300D94AF 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Magic Resist (7F - Max)]
+300D94B0 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Spells Are Increased/Decreased Level (80 - -128, 7F - +128)]
+300D94B1 007F
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Name (Prefix)]
+300D94B3 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Name (Suffix)]
+300D94B4 0000
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Strength) (FF - Max)]
+300D94B5 00FF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Dexterity) (FF - Max)]
+300D94B6 00FF
+
+#group=Equipped Ring (Left Slot)
+#type=Gameshark
+#activation=EndFrame
+[Requirements (Magic) (FF - Max)]
+300D94B7 00FF
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Life Stealing (0-12.5%)]
+300D9470 0002
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Fires Random Speed Arrows (For Bows)]
+300D9470 0004
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 1
+#type=Gameshark
+#activation=EndFrame
+[Constantly Lose Hit Points]
+300D9470 0040
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Knocks Target Back]
+300D9471 0008
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Mana ]
+300D9471 0020
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Mana ]
+300D9471 0040
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 3% Life]
+300D9471 0080
+300D9472 0000
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Hit Steals 5% Life]
+300D9471 0000
+300D9472 0001
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Hit Recovery]
+300D9472 0020
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Hit Recovery]
+300D9472 0040
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Hit Recovery]
+300D9472 0080
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Quick Attack Speed]
+300D9472 0002
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (1)]
+300D9472 0004
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fast Attack Speed (2)]
+300D9472 0006
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Faster Attack Speed ]
+300D9472 0008
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 2
+#type=Gameshark
+#activation=EndFrame
+[Fastest Attack Speed]
+300D9472 0010
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Shield Fast Block]
+300D9473 0001
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Attacker Takes Damage]
+300D9473 0004
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[User Loses All Mana]
+300D9473 0008
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[Absorbs Half of Trap Damage]
+300D9473 0010
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[200% Damage vs. Demons]
+300D9473 0040
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 3
+#type=Gameshark
+#activation=EndFrame
+[All Resistance equals 0]
+300D9473 0080
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Piercing)]
+800D9478 0801
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Puncturing)]
+800D9478 080E
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 4
+#type=Gameshark
+#activation=EndFrame
+[Damages Target's Armor (Bashing)]
+800D9478 081E
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Unarmed]
+300D9480 0000
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Sword]
+300D9480 0001
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Axe]
+300D9480 0002
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Bow]
+300D9480 0003
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Mace]
+300D9480 0004
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D9480 0005
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Base Skin/Light Armor]
+300D9480 0006
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Helm]
+300D9480 0007
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Medium Armor]
+300D9480 0008
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Heavy Armor]
+300D9480 0009
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[Staff]
+300D9480 000A
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 5
+#type=Gameshark
+#activation=EndFrame
+[No Armor/Delete Item]
+300D9480 00FF
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[No Spell (For Staves)]
+300D9491 0000
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Firebolt (For Staves)]
+300D9491 0001
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Healing (For Staves)]
+300D9491 0002
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Lightning]
+300D9491 0003
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flash]
+300D9491 0004
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Identifity]
+300D9491 0005
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Wall]
+300D9491 0006
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Town Portal]
+300D9491 0007
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Stone Curse]
+300D9491 0008
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Infravision]
+300D9491 0009
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Phasing]
+300D9491 000A
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Mana Shield]
+300D9491 000B
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Fire Ball]
+300D9491 000C
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Guardian]
+300D9491 000D
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Chain Lightning]
+300D9491 000E
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Flame Wave]
+300D9491 000F
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Nova]
+300D9491 0012
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Inferno]
+300D9491 0014
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Golem]
+300D9491 0015
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Teleport]
+300D9491 0017
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Apocalypse]
+300D9491 0018
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Item Repair]
+300D9491 001A
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Recharge]
+300D9491 001B
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Trap Disarm]
+300D9491 001C
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Elemental]
+300D9491 001D
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Charged Bolt]
+300D9491 001E
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Holy Bolt]
+300D9491 001F
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Ressurect]
+300D9491 0020
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Telekinesis]
+300D9491 0021
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Heal Other]
+300D9491 0022
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Blood Star]
+300D9491 0023
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 6
+#type=Gameshark
+#activation=EndFrame
+[Bone Spirit]
+300D9491 0024
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Normal]
+300D94A5 0000
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Magic]
+300D94A5 0001
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 7
+#type=Gameshark
+#activation=EndFrame
+[Unique]
+300D94A5 0002
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Cannot be Equipped]
+300D94A8 0000
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[One Handed Slot]
+300D94A8 0001
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Two Handed Slot]
+300D94A8 0002
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Armor Slot]
+300D94A8 0003
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Helm Slot]
+300D94A8 0004
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Ring Slot]
+300D94A8 0005
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 8
+#type=Gameshark
+#activation=EndFrame
+[Amulet Slot]
+300D94A8 0006
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Weapon]
+300D94A9 0001
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Shield]
+300D94A9 0002
+
+#group=Equipped Ring (Left Slot, Choose One of Them) 9
+#type=Gameshark
+#activation=EndFrame
+[Accessory]
+300D94A9 0003
+
